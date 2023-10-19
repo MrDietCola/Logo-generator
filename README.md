@@ -1,9 +1,9 @@
 # Logo-generator
 
-https://github.com/MrDietCola/README-generator
+https://github.com/MrDietCola/Logo-generator
 
 ## Description
-This is a README generator that takes user input and information about their project and then creates a professional readme for their project. 
+This is a SVG generator. It takes user input from the command line and then generates a SVG based of the specified perameters. 
 
 ![Alt text](logo.svg)
 
@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-The purpose of this app is to allow the user a fast way to create a readme, based off the information of their project.
+The purpose of this app is to allow the user a fast and easy way to generate a custom svg for them to use. 
 
 ## License
 
