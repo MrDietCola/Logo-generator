@@ -1,6 +1,6 @@
 # Logo-generator
 
-https://github.com/MrDietCola/Logo-generator
+https://github.com/Seidler93/Logo-generator
 
 ## Description
 This is a SVG generator. It takes user input from the command line and then generates a SVG based of the specified perameters. 
